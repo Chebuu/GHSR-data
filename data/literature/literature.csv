@@ -1,0 +1,486 @@
+PublicationTitle,PublicationURL,DOI,Species,Activity,Name1,Name2,Name3,InChlKey,SCHEMBLID,CHEMBLID,SID,CID,ECmax,EC50,EC50Assay,ICmax,IC50,IC50Assay,Ki,Kb,SMILES
+LEAP2 Is an Endogenous Antagonist of the Ghrelin Receptor,,10.1016/j.cmet.2017.10.016,H,,LEAP2,,,,,,354702210,,,,,,,,,,
+Characterization of ghrelin‐sensitive neurons in the lumbosacral defecation center in rats,https://onlinelibrary.wiley.com/doi/abs/10.1111/nmo.12492,10.1111/nmo.12492,R,,YIL781,,,FRKXOBMDEXCHHD-SFHVURJKSA-N,,CHEMBL243001,,23631116,,4.85nM,CHRM2 B-Arrestin Muscarinic Functional Assay,,,,6.57nM,6.57nM,
+Limited short-term effects on human prostate cancer xenograft growth and epidermal growth factor receptor gene expression by the ghrelin receptor antagonist [D-Lys3]-GHRP-6,https://link.springer.com/article/10.1007/s12020-018-1796-9,,H,,,[D-Lys3]-GHRP-6,,,,,310264819,5311279,,,,,,,,,
+A ghrelin receptor (GHS-R1A) antagonist attenuates the rewarding properties of morphine and increases opioid peptide levels in reward areas in mice,https://www.sciencedirect.com/science/article/pii/S0924977X15003296,10.1016/j.euroneuro.2015.10.004,M,xag,JMV2959,HY-U00433,,,,CHEMBL400814,,16114404,,,,,,,43nM,,
+Quinolones Modulate Ghrelin Receptor Signaling: Potential for a Novel Small Molecule Scaffold in the Treatment of Cachexia,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/#B34,,H,pag,JMV3018,,,,,,,,,,,,,,1.3nM,,C1(=NN=C([N]1CC2=CC=C(C=C2)OC)CCC3=CC=CC=C3)[C@@H](CC4=C[N](C5=C4C=CC=C5)[H])N(C(C6=NC=CC=C6)=O)[H]
+Atractylodin Induces Myosin Light Chain Phosphorylation and Promotes Gastric Emptying through Ghrelin Receptor,https://www.hindawi.com/journals/ecam/2017/2186798/abs/,10.1155/2017/2186798,H,xag,Atractylodin,HY-N0238,,GRBKWAXRYIITKG-QFMFQGICSA-N,,CHEMBL80795,254804547,5321047,,,,,,,,,
+The novel ghrelin receptor inverse agonist PF-5190457 administered with alcohol: preclinical safety experiments and a phase 1b human laboratory study,https://www.nature.com/articles/s41380-018-0064-y,,H,iag,PF-5190457,,,ZIUDADZJCKGWKR-AREMUKBSSA-N,,CHEMBL3287218,329823804,58438464,,,,,5.0nM,,,,
+Ghrelin receptor agonist (TZP-101) accelerates gastric emptying in adults with diabetes and symptomatic gastroparesis,https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2036.2009.03986.x,10.1111/j.1365-2036.2009.03986.x,H,xag,TZP-101,TZP101,Ulimorelin,WGYPAJVJMXQXTR-ABNZCKJZSA-N,,CHEMBL1923502,,,,0.027,711464,,,,,,
+Optimization of a Macrocyclic Ghrelin Receptor Agonist (Part II),https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119092599.ch19,10.1002/9781119092599.ch19,H,xag,TZP-102,1449142-27-1,,,,,381127480,,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,RM-131,NULL,Relamorelin,IPMQOGDSJZQLFX-BIBZJUPHSA-N,SCHEMBL17513917,,312881601,85364156,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,CP424391,CP-424391,Capromorelin,KVLLHLWBPNCVNR-SKCUWOTOSA-N,,CHEMBL113313,,216208,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,GSK894281,GSK-894281,Unii-dhj6673AS1,OIWVNMRPHUCLHN-IYBDPMFKSA-N,SCHEMBL4798672,,,24803511,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,CP464709,CP-464709-18,Unii-E40O9G0MM3,QUAJHCSLZMRTTM-JIPXPUAJSA-N,SCHEMBL5250319,CHEMBL109980,,9876514,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,EX-1314,674343-47-6,UNII-L5X0E796OB,,,,,72941845,,,,,,,,,
+Future Treatment of Constipation-associated Disorders: Role of Relamorelin and Other Ghrelin Receptor Agonists,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383112/,10.5056/jnm16183,R,xag,170851-70-4,SCHEMBL8169698,Ipamorelin,NEHWBYHLYZGBNO-BVEPWEIPSA-N,SCHEMBL183305,CHEMBL58547,,9831659,,,,,,,,,
+The ghrelin receptor agonist HM01 mimics the neuronal effects of ghrelin in the arcuate nucleus and attenuates anorexia-cachexia syndrome in tumor-bearing rats,,10.1124/jpet.118.250738,R,xag,HM01,1394860-28-6,Ghrelin agonist HM01,WGIAKIIMCPKJQN-DOMZBBRYSA-N,,,,134817268,,,,,,,1.4nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,xag,MK-0677,"L-163\,191",Ibutamoren,UMUPQWIGCOZEOY-JOCHJYFZSA-N,,CHEMBL13817,,178024,150%,0.83nM,IP1,,,,6nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,xag,JMV1843,EP1572,Macimorelin,,,CHEMBL278623,,9804938,90%,0.89nM,IP1,,,,230nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,xag,JMV3002,BDBM212436,,UMGBPWZCCHVQAY-UHFFFAOYSA-N,SCHEMBL3638300,,,53394052,30%,1.1nM,IP1,,,,6.5nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,xag,JMV3011,BDBM212437,,LODGFBNUXGQQQE-UHFFFAOYSA-N,SCHEMBL3679085,,,68741723,1%,>1000nM,IP1,,,,1.0nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,iag,JMV4484,,,,,,,,,,,35%,53nM,IP1,120nM,,C1(=NN=C([N]1CC2=CC=C(C=C2)OC)[C@@H](CC3=C[N](C4=C3C=CC=C4)[H])NC([C@H](CC(C)C)N(C([C@H](CC(C)C)NC(C)=O)=O)[H])=O)[C@@H](CC5=C[N](C6=C5C=CC=C6)[H])N(C([C@H](CCCCN([H])[H])N([H])[H])=O)[H]
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,iag,SPA,rPKPfQwFwLL-NH2,Substance P,ADNPLDHMAVUMIW-CUZNLEPHSA-N,,,,36511,,,,85%,75nM,IP1,75nM,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,iag,K-(D-1-Nal)-FwLL-NH2,BDBM50396915,,"NCMQVOQOKBIHPA-MHRDGXECSA-N  ",,CHEMBL2170781,,"71453489  ",,,,66%,30nM,IP1,,,
+,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646384/,,,iag,KwFwLL-NH2,BDBM50260270,,ZGQSDHNDIKTEJD-XLAQBFAFSA-N,,CHEMBL506986,,44576247,,36nM,,65%,100nM,iP1,,,
+Discovery and optimization of novel 4-[(aminocarbonyl)amino]-N-[4-(2-aminoethyl)phenyl]benzenesulfonamide ghrelin receptor antagonists,https://www.sciencedirect.com/science/article/pii/S0960894X09012220,10.1016/j.bmcl.2009.08.076,H,,,,4-[(aminocarbonyl)amino]-N-[4-(2-aminoethyl)phenyl]benzenesulfonamide,QTTOYOMLOPSOCO-UHFFFAOYSA-N,,,,129846067,,,,,,,,,
+,https://www.sciencedirect.com/science/article/pii/S0378874114007739,,,xag,,,Emoghrelin,,,,,,,,,,,,,,Cc4cc(O)c3c(=O)c2c(OC1OC(COC(=O)CC(=O)O)C(O)C(O)C1O)cc(O)cc2c(=O)c3c4
+,,,,,,,Ginkoghrelin,,,,,,,,,,,,,,
+,,,,,,,Echinacoside,FSBUXLDOLNLABB-ISAKITKMBV,,,,5281771,,,,,,,,,
+,,,,,,quercetin 3-O-2″-(6‴-p-coumaroyl)glucosylrhamnoside,Ginkgoghrelin-1,,,,,,,,,,,,,,
+,,,,,,kaempferol 3-O-2″-(6‴-p-coumaroyl)glucosylrhamnoside,Ginkgoghrelin-2,,,,,,,,,,,,,,
+,https://onlinelibrary.wiley.com/doi/abs/10.1111/jne.12656,,,can,,FSFLPPE,,,,,,,,,,,,,,,CC(C)C[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)[C@@H](N)CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+Oxindole Derivatives as Orally Active Potent Growth Hormone Secretagogues,https://pubs.acs.org/doi/abs/10.1021/jm0103763,,,xag,SM-130686,"SM-130686, 37S",,RRHATDIHSDLAOM-ZMBIFBSDSA-N,SCHEMBL17042307,,,9914145,,3.0nM,,,1.2nM,,,,
+Oxindole Derivatives as Orally Active Potent Growth Hormone Secretagogues,https://pubs.acs.org/doi/abs/10.1021/jm0103763,doi.org/10.1021/jm0103763,,,,"SM-130686, 37R",,,,,,,,,,,,,,,
+,,,,iag,MSP,"[D-Arg1, D-Phe5, D-Trp7,9, Leu11]-substance P",Modified Substance P,,,,,,,,,,,,,,
+,,,,iag," fQwFwLL-NH2",,,,,,,,,,,,,,,,
+,,,,pag,wFwLL-NH2,,,,,,,,,,,,530nM,,,,
+,http://jpet.aspetjournals.org/content/368/1/116.abstract,,,,HM02,,,,,,,,,,,,3.75,,,,
+,https://www.sciencedirect.com/science/article/pii/S0223523418307347,,,,G-7039,J702.665J,,,,,274352693,9918769,,0.18,176045,,,,,,
+,,,,,"[1-Nal4,Lys5(4-FB)]G-7039",,,,,,,,,,,,,,,,
+PMID 30282322,,,,,GHRP 6,,,WZHKXNSOCOQYQX-CSLALSNNSA-N,,,,134694857,,,,,,,,,
+PMID 7588325,,,,,g-7134,,,,,,,9917957,,,,,,,,,
+PMID 30282322,,,,,GHRP 1,,,,,,,10350910,,,,,,,,,
+PMID 7588325,,,,,KP-102,,Pralmorelin,,,,,6918245,,,,,,,,,
+PMID 7588325,,,,,,,,,,,,25201603,,,,,,,,,
+PMID 7588325,,,,,,,,,,,,24755480,,,,,,,,,
+PMID 30282322,,,,,,,,,,,,58629755,,,,,,,,,
+,,,,,,,,,,,,9852086,,,,,,,,,
+,https://onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201100285,10.1002/cmdc.201100285,,,GSK1614343,,,UHKVIJGYKUHSJC-IEBWSBKVSA-N,,,,76849424,,,,,,,,,
+,https://adisinsight.springer.com/drugs/800020549,,,,JMV2760,,,,,,,,,,,,,,,,
+,https://adisinsight.springer.com/drugs/800020549,,,,JMV 3534,,,,,,,,,,,,,,,,
+,https://adisinsight.springer.com/drugs/800020549,,,,AEZS-123,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,4,,,,,,,,,1.3,,,43.5,,,,CC1=CN2C=C(CC(=O)N3CCC4(CN(C4)[C@@H]4CCC5=CC(=CC=C45)C4=CC(C)=NC=N4)CC3)N=C2S1
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,8,,,,,,,,,inactive,,,6.95,,,,C[C@H](NC(=O)N(C)C1CCN(C)CC1)C1=CC=C(C2=NC=CN=C2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,9,,,,,,,,,483,,,1210,,,,C[C@H](NC(=O)N1CCC2(CN(C2)[C@@H]2CCC3=C2C=CC(=C3)C2=NC=NC(C)=C2)CC1)C1=CC=C(C2=CN=CC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,10,,,,,,,,,inactive,,,4010,,,,C[C@H](NC(=O)N1CCC2(CN(C2)[C@@H]2CCC3=C2C=CC(=C3)C2=NC=NC(C)=C2)CC1)C1=CC=CC(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,11,,,,,,,,,194,,,369,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C2=CN=CC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,12,,,,,,,,,inactive,,,2330,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=CC(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,13,,,,,,,,,inactive,,,inactive,,,,CC(NC(=O)N(C)C1CCN(C)CC1)C1=CN2C=C(C)SC2=N1
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,14,,,,,,,,,inactive,,,inactive,,,,CN(C1CCN(C)CC1)C(=O)NCC1=CN2C=C(C)SC2=N1
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,15,,,,,,,,,67,,,171,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)[C@@H]2CCC3=CC(=CC=C23)C2=CC(C)=NC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,16,,,,,,,,,96,,,303,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(=CC=C23)C2=CC(C)=NC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,17,,,,,,,,,inactive,,,inactive,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C(O)=O)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,18,,,,,,,,,121,,,571,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(N)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,19,,,,,,,,,10.6,,,156,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#C)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,20,,,,,,,,,298,,,2870,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,21,,,,,,,,,51,,,80,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,22,,,,,,,,,inactive,,,2700,,,,CN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)NCC1=CC=CC(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,23,,,,,,,,,inactive,,,1130,,,,CN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)NCC1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,24,,,,,,,,,306,,,192,,,,CC[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,25,,,,,,,,,2164,,,8080,,,,CN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)N[C@H](C1=CC=C(C2=CN=CC=N2)C(Cl)=C1Cl)C(F)(F)F
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,26,,,,,,,,,484,,,4540,,,,CN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)NC(CCC1CC1)C1=CC=C(C(Cl)=C1Cl)C1=CN=CC=N1
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,27,,,,,,,,,970,,,5400,,,,CN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)NC(CCC1CC1)C1=CC=CC(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,28,,,,,,,,,439,,,1800,,,,COC1=CC=C([C@H](CCC2CC2)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(=CC=C23)C2=CC(C)=NC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,29,,,,,,,,,634,,,798,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=NC=CC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,30,,,,,,,,,84.8,,,85.9,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CN=CN=C1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,31,,,,,,,,,117,,,282,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(C)=CC=C12)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,32,,,,,,,,,inactive,,,919,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC=CC=C12)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,33,,,,,,,,,73,,,329,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(C)=CC=C23)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,34,,,,,,,,,40.7,,,315,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(Cl)=CC=C23)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,35,,,,,,,,,85.7,,,120,,,,COC1=CC=C2C(CCC2=C1)N1CCC(CC1)N(C)C(=O)NC(C)C1=CC=C(OC)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,36,,,,,,,,,inactive,,,1300,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(O)=CC=C23)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,37,,,,,,,,,inactive,,,1510,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(N)=CC=C23)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,38,,,,,,,,,70,,,240,,,,COC1=CC=C([C@H](C)NC(=O)N(C)C2CCN(CC2)C2CCC3=CC(=CC=C23)N2N=CC=N2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,39,,,,,,,,,189,,,1166,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(C)=CC=C12)C1=CC=C(O)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,40,,,,,,,,,inactive,,,106,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(C)=CC=C12)C1=CC=C(C#C)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,41,,,,,,,,,inactive,,,2367,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(C)=CC=C12)C1=CC=C(C2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,42,,,,,,,,,inactive,,,2005,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)C1CCC2=CC(C)=CC=C12)C1=CC=C(C#C[Si](C)(C)C)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,43,,,,,,,,,inactive,,,148,,,,C[C@H](NC(=O)N(C)C1CCN(C1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,44,,,,,,,,,363,,,530,,,,C[C@H](NC(=O)N(C)C1CCN(CC1(C)C)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,45,,,,,,,,,937,,,2920,,,,CCN(C1CCN(CC1)C1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C(=O)N[C@@H](C)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,46,,,,,,,,,1276,,,1276,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)[C@H]1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b00794,,,,47,,,,,,,,,29.4,,,68.2,,,,C[C@H](NC(=O)N(C)C1CCN(CC1)[C@@H]1CCC2=CC(=CC=C12)C1=CC(C)=NC=N1)C1=CC=C(C#CC2CC2)C(Cl)=C1Cl
+,http://jpet.aspetjournals.org/content/366/3/422,,,,JMV2894,Hexarelin,,,,,,,,,,,,,,,
+,http://jpet.aspetjournals.org/content/366/3/422,,,,BIM-28125,,,,,,,,,,,,,,,,
+,http://jpet.aspetjournals.org/content/366/3/422,,,,BIM-28131,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4a,,,,,,,,,,,,5.6,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4b,,,,,,,,,,,,52,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4c,,,,,,,,,,,,68.5,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)N=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4d,,,,,,,,,,,,82.9,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(OC6=CC=C(F)N=C6)N=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4e,,,,,,,,,,,,5.3,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,4f,,,,,,,,,,,,587,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(N6CCN(C(C)=O)CC6)C=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5a,,,,,,,,,,,,29.5,,,,O=C1N(C[C@H]2CCCN(CCF)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5b,,,,,,,,,,,,20.6,,,,O=C1N(C[C@H]2CCCN(CCF)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5c,,,,,,,,,,,,64.2,,,,O=C1N(C[C@H]2CCCN(CCF)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)N=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5d,,,,,,,,,,,,65.2,,,,O=C1N(C[C@H]2CCCN(CCO)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(OC6=CC=C(F)N=C6)N=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5e,,,,,,,,,,,,9.3,,,,O=C1N(C[C@H]2CCCN(CCF)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5f,,,,,,,,,,,,3.7,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5g,,,,,,,,,,,,1.8,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5h,,,,,,,,,,,,18.2,,,,O=C1N(C[C@H]2CCCN(CCO)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5i,,,,,,,,,,,,0.4,,,,O=C1N(C[C@H]2CCCN(CCO)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,5j,,,,,,,,,,,,>1000,,,,O=C1N(C[C@H]2CCCN(C(C(C)F)=O)C2)C(C3=CC=CC=C3C)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,9a,,,,,,,,,,,,935.2,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3F)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,9b,,,,,,,,,,,,16,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3F)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,10a,,,,,,,,,,,,70.5,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3F)=NC4=CC=C(OC5=CC=C(F)C=N5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,10b,,,,,,,,,,,,0.02,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3F)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,10c,,,,,,,,,,,,8.1,,,,O=C1N(C[C@H]2CCCN(CCF)C2)C(C3=CC=CC=C3F)=NC4=CC=C(OC5=CC=C(N=CS6)C6=C5)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,13,,,,,,,,,,,,4,,,,O=C1N(C[C@H]2CCCNC2)C(C3=CC=CC=C3C)=NC4=CC=C(C(C5=CC=C(F)C=C5)=O)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,14,,,,,,,,,,,,3.8,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3C)=NC4=CC=C(C(C5=CC=C(F)C=C5)=O)C=C14
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b01754,10.1021/acs.jmedchem.7b01754,,,17,,,,,,,,,,,,0.3,,,,O=C1N(C[C@H]2CCCN(C(C)C)C2)C(C3=CC=CC=C3C)=NC4=CC=C(CC5=CC=C(F)C=C5)C=C14
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3,,,,,,,,,,,,200,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CCC(O)=O)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3a,,,,,,,,,,,,65,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CC3=CC=C(O)C=C3)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3b,,,,,,,,,,,,6.7,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CC3=CC=CC=C3)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3c,,,,,,,,,,,,86.3,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CC3=CNC4=C3C=CC=C4)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3d,,,,,,,,,,,,31.9,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CC(N)=O)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3e,,,,,,,,,,,,21.7,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CCC(N)=O)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3f,,,,,,,,,,,,3.3,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)[C@H](O)C)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3g,,,,,,,,,,,,28.8,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CO)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3h,,,,,,,,,,,,66.2,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)[C@@H](C)O)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3i,,,,,,,,,,,,45,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](CC(N)=O)[C@@H](C)O)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,3j,,,,,,,,,,,,94.1,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(CCCCCCC)=O)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N2[C@@H](CCC2)C(N[C@H](C(N)=O)CC3=CC(C=CC=C4)=C4C=C3)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,4a,,,,,,,,,,,,146,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(F)C=C1)=O)C(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N3[C@@H](CCC3)C(N[C@H](C(N)=O)CC4=CC=C(O)C=C4)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,4b,,,,,,,,,,,,9.9,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N4[C@@H](CCC4)C(N[C@H](C(N)=O)CC5=CC=C(O)C=C5)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,4c,,,,,,,,,,,,33.7,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C2=CC=C(F)C=C2)C=C1)=O)C(N[C@@H](CC3=CC=CC=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N4[C@@H](CCC4)C(N[C@H](C(N)=O)CC5=CC=C(O)C=C5)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,5a,,,,,,,,,,,,9.3,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N4[C@@H](CCC4)C(N[C@H](C(N)=O)CC5=CC=C(O)C=C5)=O)=O)=O)=O)=O)=O)C(C)(C)N
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,5b,,,,,,,,,,,,9.6,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N4[C@@H](CCC4)C(N[C@H](C(N)=O)CC5=CC=C(O)C=C5)=O)=O)=O)=O)=O)=O)C6CCNCC6
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,5c,,,,,,,,,,,,262,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N4[C@@H](CCC4)C(N[C@H](C(N)=O)CC5=CC=C(O)C=C5)=O)=O)=O)=O)=O)=O)CNC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,6a,,,,,,,,,,,,4.1,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC4=C3C=CC=C4)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N5[C@@H](CCC5)C(N[C@H](C(N)=O)CC6=CC=C(O)C=C6)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,6b,,,,,,,,,,,,1068,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=C(C=CC=C4)C4=C3)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N5[C@@H](CCC5)C(N[C@H](C(N)=O)CC6=CC=C(O)C=C6)=O)=O)=O)=O)=O)=O)CN
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00164,10.1021/acs.jmedchem.7b00164,,,7,,,,,,,,,,,,0.1,,,,O=C(N[C@@H](CO)C(N[C@@H](CNC(C1=CC=C(C=C(F)C=C2)C2=C1)=O)C(N[C@@H](CC3=CC=CC4=C3C=CC=C4)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N5[C@@H](CCC5)C(N[C@H](C(N)=O)[C@H](C)O)=O)=O)=O)=O)=O)=O)C6CCNCC6
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,1,,,,,,,,,,,,6.4,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)CCNCCOC
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,2,,,,,,,,,,,,7,,,,CN(C)CCC(=O)N[C@H]1c2ccccc2C[C@@H]1NC(=O)c3cc4cc(c(cc4[nH]3)F)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,3,,,,,,,,,,,,6.7,,,,c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)[C@H]3CCNC3)NC(=O)c4cc5cc(ccc5[nH]4)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,4,,,,,,,,,,,,7.8,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)CCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,5,,,,,,,,,,,,6,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@@H]3Cc4ccccc4[C@H]3NC(=O)CCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,6,,,,,,,,,,,,7.2,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@H]3NC(=O)CCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,7,,,,,,,,,,,,5.9,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@@H]3Cc4ccccc4[C@@H]3NC(=O)CCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,8,,,,,,,,,,,,6.6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnccc5N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,9,,,,,,,,,,,,<6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5c(cccn5)N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,10,,,,,,,,,,,,<6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5c(nccn5)N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,11,,,,,,,,,,,,<6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cncnc5N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,12,,,,,,,,,,,,<6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnc[nH]5
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,13,,,,,,,,,,,,<6,,,,Cn1c2ccccc2cc1C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5c[nH]nc5N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,14,,,,,,,,,,,,7.1,,,,c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c3cnccc3N)NC(=O)c4[nH]c5cc(c(cc5n4)F)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,15,,,,,,,,,,,,7.9,,,,c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c3cnccc3N)NC(=O)c4cc5c([nH]4)cc(cc5F)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,16,,,,,,,,,,,,7.9,,,,c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c3cnccc3N)NC(=O)c4cc5cc(c(cc5[nH]4)F)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,17,,,,,,,,,,,,7.5,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnccc5N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,18,,,,,,,,,,,,6.7,,,,c1ccc2c(c1)C[C@@H]([C@H]2NC(=O)c3cnccc3N)NC(=O)c4cc5cc(ccc5[nH]4)C#N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,19,,,,,,,,,,,,7.3,,,,c1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnccc5N
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,20,,,,,,,,,,,,-,,,,Cn1ccc2c1cc(c(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnccc5N)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,21,,,,,,,,,,,,-,,,,Cn1ccc2c1c(cc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)c5cnccc5N)F
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,22,,,,,,,,,,,,7.9,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CN(CCO5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,23,,,,,,,,,,,,6.6,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CN(CCO5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,24,,,,,,,,,,,,<5.5,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@H]5CN(CCO5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,25,,,,,,,,,,,,6.3,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CCCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,26,,,,,,,,,,,,6.3,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@H]5CCCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,27,,,,,,,,,,,,7,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CCCCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,28,,,,,,,,,,,,6.7,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@H]5CCCCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,29,,,,,,,,,,,,7.2,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CN(CCCO5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,30,,,,,,,,,,,,<6.0,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@H]5CN(CCCO5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,31,,,,,,,,,,,,-,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CN(CCOC5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,32,,,,,,,,,,,,-,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CNCCO5
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,33,,,,,,,,,,,,-,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CNCCOC5
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,34,,,,,,,,,,,,-,,,,CC(=O)N1CCO[C@@H](C1)C(=O)N[C@H]2c3ccccc3C[C@@H]2NC(=O)c4ccc5c(c4)ccn5C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,35,,,,,,,,,,,,6.5,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@H]5CCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,36,,,,,,,,,,,,6.5,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)[C@@H]5CCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,37,,,,,,,,,,,,6.7,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)C[C@H]5CCCN5C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,38,,,,,,,,,,,,7.5,,,,Cn1ccc2c1ccc(c2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3NC(=O)C[C@@H]5CCCN5C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,39,,,,,,,,,,,,8.4,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3C(=O)NCCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,40,,,,,,,,,,,,6.3,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@@H]3Cc4ccccc4[C@H]3C(=O)NCCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,41,,,,,,,,,,,,-,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3C(=O)N[C@H]5CCCN(C5)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,42,,,,,,,,,,,,-,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@H]3C(=O)NCCN(C)C
+,https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00322,10.1021/acs.jmedchem.8b00322,,,43,,,,,,,,,,,,7.9,,,,Cc1ccc2c(c1)cc([nH]2)C(=O)N[C@H]3Cc4ccccc4[C@@H]3C(=O)N(C)CCN(C)C
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,1,,,,,,,,,?See pub,,,?See pub,,,,N[C@@H](CC(C)C)C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(N[C@H](C(N[C@@H](CO)C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(N[C@H](C(N[C@H](C(N[C@@H](CO)C(N[C@@H](CCC(O)=O)C(N[C@H](C(N[C@H](C(N[C@@H]([C@H](O)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CC(C)C)C(N3)=O)=O)=O)=O)[C@@H](C)CC)=O)CSSC[C@H]4C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CCC(N)=O)C(N[C@@H](CCC(O)=
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,2,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(O)=O)=O)[C@@H](C)CC)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,3,,,,,,,,,?See pub,,,?See pub,,,,C[C@H](N)C(N[C@@H](CO)C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(N[C@H](C(N[C@H](C(N[C@@H](CO)C(N[C@@H](CCC(O)=O)C(N[C@H](C(N[C@H](C(N[C@@H]([C@H](O)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CC(C)C)C(N1)=O)=O)=O)=O)[C@@H](C)CC)=O)CSSC[C@H]2C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CCC(N)=O)C(N[C@@H](CCC(O)=O)C(N)=O)=O)=O)C)=O)=O)=O)=O)=O)=O)=O)=O)CC(O)=O)=O)CC(O)=O)=O)=O)CSSC[C@H]1C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCNC(N)=N)C(N2)=O)=O)=O)=O)=O)=O)=O
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,4,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(N)=O)=O)[C@@H](C)CC)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,5,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,6,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N)=O)=O)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,7,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,8,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,1,,,,,,,,,?See pub,,,?See pub,,,,N[C@@H](CC(C)C)C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(N[C@H](C(N[C@@H](CO)C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(N[C@H](C(N[C@H](C(N[C@@H](CO)C(N[C@@H](CCC(O)=O)C(N[C@H](C(N[C@H](C(N[C@@H]([C@H](O)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CC(C)C)C(N3)=O)=O)=O)=O)[C@@H](C)CC)=O)CSSC[C@H]4C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CCC(N)=O)C(N[C@@H](CCC(O)=O)C(N)=O)=O)=O)C)=O)=O)=O)=O)=O)=O)=O)=O)CC(O)=O)=O)CC(O)=O)=O)=O)CSSC[C@H]3C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCNC(N)=N)C(N4)=O)=O)=O)=O)=O)=O)=O)C)=O)=O)[C@@H](C)CC)=O)=O)=O)=O)=O)=O)=O)=O)CC5=CNC6=C5C=CC=C6)=O)CC7=CC=CC=C7)=O)=O)=O
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,2,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(O)=O)=O)[C@@H](C)CC)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,3,,,,,,,,,?See pub,,,?See pub,,,,C[C@H](N)C(N[C@@H](CO)C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(N[C@H](C(N[C@H](C(N[C@@H](CO)C(N[C@@H](CCC(O)=O)C(N[C@H](C(N[C@H](C(N[C@@H]([C@H](O)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CC(C)C)C(N1)=O)=O)=O)=O)[C@@H](C)CC)=O)CSSC[C@H]2C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CO)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CCC(N)=O)C(N[C@@H](CCC(O)=O)C(N)=O)=O)=O)C)=O)=O)=O)=O)=O)=O)=O)=O)CC(O)=O)=O)CC(O)=O)=O)=O)CSSC[C@H]1C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCNC(N)=N)C(N2)=O)=O)=O)=O)=O)=O)=O
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,4,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N[C@H](C(NCC(N)=O)=O)[C@@H](C)CC)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,5,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N2CCC[C@H]2C(N)=O)=O)=O)=O)=O)=O)=O)=O)CC3=CNC4=C3C=CC=C4)=O)CC5=CC=CC=C5)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,6,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N[C@@H](CO)C(N[C@@H](CC(C)C)C(N)=O)=O)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,7,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.8b01644,10.1021/acs.jmedchem.8b01644,,,8,,,,,,,,,?See pub,,,?See pub,,,,N[C@H](C(N[C@@H]([C@H](O)C)C(N1CCC[C@H]1C(N[C@H](C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(NCC(N[C@H](C(C)C)C(N)=O)=O)=O)=O)CC2=CNC3=C2C=CC=C3)=O)CC4=CC=CC=C4)=O)=O)=O)CCCC
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD43,,,,,,,,,,,,0.502uM,,0.281uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD12,,,,,,,,,,,,2.1uM,,1.17uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD40,,,,,,,,,,,,3.43uM,,1.92uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD28,,,,,,,,,,,,3.64uM,,2.03uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD13,,,,,,,,,,,,2.11uM,,1.18uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD8,,,,,,,,,,,,2.46uM,,1.37uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD11,,,,,,,,,,,,>10uM,,inactive,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD41,,,,,,,,,,,,0.388uM,,0.217uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD15,,,,,,,,,,,,>10uM,,inactive,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD17,,,,,,,,,,,,>10uM,,inactive,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD42,,,,,,,,,,,,1.57uM,,0.875uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD31,,,,,,,,,,,,2.36uM,,1.32uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD37,,,,,,,,,,,,1.62uM,,0.905uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD44,,,,,,,,,,,,2.07uM,,1.15uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD3,,,,,,,,,,,,2.3uM,,1.29uM,,
+,https://pubs.acs.org/doi/10.1021/jm040103i,10.1021/jm040103i,,,CPD34,,,,,,,,,,,,4.7uM,,2.63uM,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm500610n,10.1021/jm500610n,M,pag,AZ-GHS-14,14,,,,,,,,,,,1.3nM,,,,
+,https://pubs.acs.org/doi/10.1021/jm500610n,10.1021/jm500610n,M,iag,AZ-GHS-22,22,,XWFQFKFKWKWIEW-UHFFFAOYSA-N,SCHEMBL1788482,CHEMBL3319223,,57422817,,,,,0.77nM,,,,
+,https://pubs.acs.org/doi/10.1021/jm500610n,10.1021/jm500610n,M,iag,AZ-GHS-38,38,,,,,,,,,,,6.7nM,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,Teaghrelin-3,kaempferol 3‐O‐[α‐L‐arabinopyranosyl(1 → 3)][2ʺ‐O‐(E)‐p‐coumaroyl][β‐D‐glucopyranosyl(1 → 3)‐α‐L‐rhamnopyranosyl(1 → 6)]‐β‐D‐glucoside,,,,,,,,,,,,,,,
+,,,,,Teaghrelin-4,quercetin 3‐O‐[α‐L‐arabinopyranosyl(1 → 3)][2ʺ‐O‐(E)‐p‐coumaroyl][β‐D‐glucopyranosyl(1 → 3)‐α‐L‐rhamnopyranosyl(1 → 6)]‐β‐D‐glucoside,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jo9003508,10.1021/jo9003508,H,xag,BMS-317180,,,,,CHEMBL398372,,23649669,,,,,1.9nM,,,,
+,https://pubs.acs.org/doi/10.1021/jm701292s,10.1021/jm701292s,M,xan,JMV3009,,,,,,,,,,,,,,18.9nM,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm070024h,10.1021/jm070024h,,fag,JMV2873,29c,C34H40N8O,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm070024h,10.1021/jm070024h,R,pag,JMV2810,21b,,,,,,,,,,,49nM,,33nM,,
+,https://pubs.acs.org/doi/10.1021/jm070024h,10.1021/jm070024h,R,xan,JMV2866,19b,,,,,,,,,,,,,11nM,,
+,https://pubs.acs.org/doi/10.1021/jm070024h,10.1021/jm070024h,R,xan,JMV2844,19c,,,,,,,,,,,,,6nM,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm060461g,10.1021/jm060461g,,,,13d,,,,,,,,,,,,,108nM,,
+,https://pubs.acs.org/doi/10.1021/jm060461g,10.1021/jm060461g,,,,14c,C23H28N6O2 · 0.15CF3COOH,,,,,,,,,,,,7nM,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm0510934,10.1021/jm0510934,,,,8a,C25H24ClN5O ·0.2 CH3OH,,,,,,,,,,,,19nM,,
+,,,,,,,,,,,,,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm00033a006,10.1021/jm00033a006,,,L-692429,"L-692,429",,SBJLJOFPWOYATP-XMMPIXPASA-N,,CHEMBL308716,,121879,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm9801962,10.1021/jm9801962,,xag,NNC-26-0235,J1.007.152F,,,,,272699752,10394326,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm9801962,10.1021/jm9801962,,xag,NNC 26-0323,,,,,,272699753,100916593,,,,,,,,,
+,https://pubs.acs.org/doi/10.1021/jm970816j,10.1021/jm970816j,,,,"L-739,943",8b,,,CHEMBL47938,,9807597,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1021/jm0103763,R,xag,,6," 6-bromo-1-(2-diethylaminoethyl)-3-hydroxy-3-(2-naphthyl)oxindole",FKPKICLXNOBYBR-UHFFFAOYSA-N,,,,,,380nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,5,4-Bromo-1-(2-diethylaminoethyl)-3-hydroxy-3-(2-naphthyl)oxindole,LUHZBXZMFRLZLL-UHFFFAOYSA-N,,,,,,77nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,,,15,5-Bromo-1-(2-diethylaminoethyl)-3-hydroxy-3-(2-naphthyl)oxindole,"ZODQVQVYUKGKLA-UHFFFAOYSA-N ",,,,,,>1000nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,,,10,7-Bromo-1-(2-diethylaminoethyl)-3-hydroxy-3-(2-naphthyl)oxindole,"VAQXBWKZPWFGHX-UHFFFAOYSA-N ",,,,,,>1000nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,,,16," 1-(2-Diethylaminoethyl)-3-hydroxy-3-(2-naphthyl)oxindole",FVZCUOAEJAWIKG-UHFFFAOYSA-N,,,,,,>1000nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,,,20,6-Chloro-1-(2-diethylaminoethyl)-3-hydroxy-4-(3-hydroxy-1-propynyl)-3-(2-naphthyl)oxindole,LRHVZVGXCWUXPU-UHFFFAOYSA-N,,,,,,>1000nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,21,4-Chloro-1-(2-diethylaminoethyl)-3-hydroxy-6-(3-hydroxy-1-propynyl)-3-(2-naphthyl)oxindole,OHRYZRDOLHVZQW-UHFFFAOYSA-N,,,,,,310nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,30,1-(2-Diethylaminoethyl)-6-(3-hydroxy-1-propynyl)-3-hydroxy-3-(2-naphthyl)-4-trifluoromethyloxindole,MVCDTDJOWSBHKB-UHFFFAOYSA-N,,,,,,310nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,31,1-(2-Diethylaminoethyl)-3-hydroxy-6-(4-morpholinocarbonyl-1-butynyl)-3-(2-naphthyl)-4-trifluoromethyloxindole,WWMWHXCJRJZLFM-UHFFFAOYSA-N,,,,,,30nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,32,1-(2-Diethylaminoethyl)-3-hydroxy-6-(4-carbamoyl-1-butynyl)-3-(2-naphthyl)-4-trifluoromethoxyindole,"KLKKSWONMUSEJH-UHFFFAOYSA-N ",,,,,,30nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,36,1-(2-Diethylaminoethyl)-6-carbamoyl-3-hydroxy-3-(2-naphthyl)-4-trifluoromethyloxindole,QCQVGWLAWRECNZ-UHFFFAOYSA-N,,,,,,18nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,33,3-(2-Chlorophenyl)-1-(2-diethylaminoethyl)-3-hydroxy-6-(4-morpholinocarbonyl-1-butynyl)-4-trifluoromethyloxindole,NHQZWSZAIQXNLX-UHFFFAOYSA-N,,,,,,3.7nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,37,,,,,,"9890863  ",,3.5nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,SM-130686,37S,,RRHATDIHSDLAOM-ZMBIFBSDSA-N,SCHEMBL17042307,,,9914145,,3.0nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,10.1021/jm0103763,R,xag,,37R,,,,,,10874830,,210nM,GH release in rat pituitary cells MK-677 (1.3 nM) normalized.,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1021/jm00033a006,,xag,"L-692,429",L-692429,"3-Amino-3-methyl-N-[(3R)-2-oxo-1-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]-4,5-dihydro-3H-1-benzazepin-3-yl]butanamide",,,,,121879,,60nM,175855,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1124/jpet.118.250738,R,xag,HM02,,,FOOGWQIDOZUTSZ-JTQLQIEISA-N,,,,,,,,,,,3.75nM,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)9,"(S)-6-(4-Bromo-2-fluorophenoxy)-3-((1-isopropylpiperidin-3-yl)methyl)-2-methylpyrido[3,2-d]pyrimidin-4(3H)-one",LMBFVVBQYYWDKN-INIZCTEOSA-N,,,,,63,0.7nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(R)9,"(R)-6-(4-Bromo-2-fluorophenoxy)-3-((1-isopropylpiperidin-3-yl)methyl)-2-methylpyrido[3,2-d]pyrimidin-4(3H)-one",LMBFVVBQYYWDKN-MRXNPFEDSA-N,,,,,59,0.6nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)-10,"(S)-6-(4-Bromo-2-fluorophenoxy)-3-((1-(2-fluoroethyl) piperidin-3-yl)methyl)-2-methylpyrido[3,2-d]pyrimidin-4(3H)-one",DNOIVKFZSAZHBD-HNNXBMFYSA-N,,,,,64,1.6nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)-11,,"XMXGYFBVLHBOTN-INIZCTEOSA-N ",,,,,58,2.9nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)-13,,VGMJMWHKRBPBBK-WMCAAGNKSA-N,,,,,57,1.4nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)-14,,,,,,,42,2.1nM,,,,,,,
+,,10.3390/ijms18040768,,xag,,(S)-16,,FSBOJGLGLKEJDV-HNNXBMFYSA-N,,,,,40,1.0nM,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1124/mol.116.106112,,xag,,GSK2636771,,,,,,56949517,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,6c,,NTOZZABUBGBASR-UHFFFAOYSA-N,,,,,,,,,55,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,6a,,WGMWHTHAGNNNDZ-UHFFFAOYSA-N,,,,,,,,,5.5,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,18b,,LLKFGUJTWRDSHC-UHFFFAOYSA-N,,,,,,,,,2.0,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,6b,,KZKDQLCRFHOYRX-UHFFFAOYSA-N,,,,,,,,,6.6,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,6d,,IDQOBIWYUZPCJJ-UHFFFAOYSA-N,,,,,,,,,0.35,,,,
+,,10.1248/cpb.c15-00285.,R,iag,,18a,,SSNRYJBICOYCRB-UHFFFAOYSA-N,,,,,,,,,0.39,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,10.1021/jm500610n,,,,1,,,,,,,,,TANGO B arrestin recruitment,,210,,,,
+,,10.1021/jm500610n,,,,2,,,,,,,,,,,76,,,,
+,,10.1021/jm500610n,,,,3,,,,,,,,,,,120,,,,
+,,10.1021/jm500610n,,,,4,,,,,,,,,,,4700,,,,
+,,10.1021/jm500610n,,,,5,,,,,,,,,,,>10000,,,,
+,,10.1021/jm500610n,,,,6,,,,,,,,,,,44,,,,
+,,10.1021/jm500610n,,,,7,,,,,,,,,,,27,,,,
+,,10.1021/jm500610n,,,,8,,,,,,,,,,,83,,,,
+,,10.1021/jm500610n,,,,9,,,,,,,,,,,23,,,,
+,,10.1021/jm500610n,,,,10,,,,,,,,,,,8.7,,,,
+,,10.1021/jm500610n,,,,11,,,,,,,,,,,13,,,,
+,,10.1021/jm500610n,,,,12,,,,,,,,,,,65,,,,
+,,10.1021/jm500610n,,,,13,,,,,,,,,,,8.6,,,,
+,,10.1021/jm500610n,,,,14,,,,,,,,,,,1.3,,,,
+,,10.1021/jm500610n,,,,15,,,,,,,,,,,4.2,,,,
+,,10.1021/jm500610n,,,,16,,,,,,,,,,,0.78,,,,
+,,10.1021/jm500610n,,,,17,,,,,,,,,,,5.1,,,,
+,,10.1021/jm500610n,,,,18,,,,,,,,,,,0.33,,,,
+,,10.1021/jm500610n,,,,19,,,,,,,,,,,0.31,,,,
+,,10.1021/jm500610n,,,,20,,,,,,,,,,,0.15,,,,
+,,10.1021/jm500610n,,,,21,,,,,,,,,,,0.29,,,,
+,,10.1021/jm500610n,,,,22,,,,,,,,,,,0.77,,,,
+,,10.1021/jm500610n,,,,23,,,,,,,,,,,0.69,,,,
+,,10.1021/jm500610n,,,,24,,,,,,,,,,,0.67,,,,
+,,10.1021/jm500610n,,,,25,,,,,,,,,,,8.8,,,,
+,,10.1021/jm500610n,,,,26,,,,,,,,,,,0.53,,,,
+,,10.1021/jm500610n,,,,27,,,,,,,,,,,0.48,,,,
+,,10.1021/jm500610n,,,,28,,,,,,,,,,,1.3,,,,
+,,10.1021/jm500610n,,,,29,,,,,,,,,,,0.62,,,,
+,,10.1021/jm500610n,,,,30,,,,,,,,,,,0.31,,,,
+,,10.1021/jm500610n,,,,31,,,,,,,,,,,0.24,,,,
+,,10.1021/jm500610n,,,,32,,,,,,,,,,,0.57,,,,
+,,10.1021/jm500610n,,,,33,,,,,,,,,,,0.43,,,,
+,,10.1021/jm500610n,,,,34,,,,,,,,,,,3.9,,,,
+,,10.1021/jm500610n,,,,35,,,,,,,,,,,2.9,,,,
+,,10.1021/jm500610n,,,,36,,,,,,,,,,,15,,,,
+,,10.1021/jm500610n,,,,37,,,,,,,,,,,33,,,,
+,,10.1021/jm500610n,,,,38,,,,,,,,,,,6.7,,,,
+,,10.1021/jm500610n,,,,39,,,,,,,,,,,0.92,,,,
+,,10.1021/jm500610n,,,,40,,,,,,,,,,,0.4,,,,
+,,10.1021/jm500610n,,,,41,,,,,,,,,,,7.2,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,

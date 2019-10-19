@@ -1,0 +1,1 @@
+An idea is to threshold affinity values here

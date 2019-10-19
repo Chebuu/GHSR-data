@@ -2,6 +2,7 @@
 .Rapp.*
 .Rhistory
 .Rproj.user
+.Rproj
 
 Note.*.txt
 

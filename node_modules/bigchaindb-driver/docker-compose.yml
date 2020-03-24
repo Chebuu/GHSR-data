@@ -1,0 +1,43 @@
+# Copyright BigchainDB GmbH and BigchainDB contributors
+# SPDX-License-Identifier: (Apache-2.0 AND CC-BY-4.0)
+# Code is Apache-2.0 and docs are CC-BY-4.0
+
+version: '2.1'
+
+services:
+  mongodb:
+    image: mongo:3.6
+    ports:
+      - "27017"
+    command: mongod
+  bigchaindb:
+    depends_on:
+      - mongodb
+      - tendermint
+    image: bigchaindb/bigchaindb:master
+    environment:
+      BIGCHAINDB_DATABASE_HOST: mongodb
+      BIGCHAINDB_DATABASE_PORT: 27017
+      BIGCHAINDB_SERVER_BIND: 0.0.0.0:9984
+      BIGCHAINDB_WSSERVER_HOST: 0.0.0.0
+      BIGCHAINDB_TENDERMINT_HOST: tendermint
+      BIGCHAINDB_TENDERMINT_PORT: 26657
+    ports:
+      - "9984:9984"
+      - "9985:9985"
+      - "26658"
+    healthcheck:
+      test: ["CMD", "bash", "-c", "curl http://bigchaindb:9984 && curl http://tendermint:26657/abci_query"]
+      interval: 3s
+      timeout: 5s
+      retries: 3
+    command: -l DEBUG start
+  tendermint:
+    image: tendermint/tendermint:0.22.8
+    # volumes:
+    #   - ./tmdata:/tendermint
+    entrypoint: ''
+    ports:
+      - "26656"
+      - "26657"
+    command: sh -c "tendermint init && tendermint node --consensus.create_empty_blocks=false --proxy_app=tcp://bigchaindb:26658"

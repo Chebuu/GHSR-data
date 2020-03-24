@@ -9,7 +9,7 @@ source('data.literature.R')
 # Read parsed datasets from each soure and rbind those of the same type
 GHSR <- readGHSR.parsed(bind=TRUE)
 
-# Convert all CHEMBLID to InChIKey
+# Convert all CHEMBLIDs to InChIKey
 GHSR <- lapply(GHSR, function(dset){
   dset %>%
     mutate(
@@ -24,7 +24,7 @@ GHSR <- lapply(GHSR, function(dset){
     )
 })
 
-# Convert all InChIKeyss to CIDs
+# Convert all InChIKeys to CIDs
 GHSR <- lapply(GHSR, function(dset){
   dset %>%
     mutate(
@@ -44,8 +44,8 @@ GHSR <- lapply(GHSR, function(dset){
   dset %>%
     mutate(
       smiles = case_when(
-        Id.Type = 'cid' ~ getSMILES.cid(Id),
-        TRUE ~ smiles
+        Id.Type == 'cid' ~ getSMILES.cid(Id),
+        TRUE ~ NA_character_
       )
     )
 })
@@ -54,7 +54,7 @@ GHSR <- lapply(GHSR, function(dset){
 for(dsname in names(GHSR)){
   dset <- GHSR[[dsname]]
   dsfile <- sprintf('GHSR.%s.csv', dsname)
-  dspath <- normalizePath(paste(AGGREGATE_DIR, dsfile, sep='/'))
+  dspath <- normalizePath(paste(AGGREGATE_DIR, dsfile, sep='/'), mustWork=F)
   write.csv(dset, dspath)  
 }
 
@@ -63,5 +63,7 @@ for(dsname in names(GHSR)){
   dset <- GHSR[[dsname]]
   dset.sdf <- smiles2sdf(dset.id)
   dset.sdf@ID <- paste(dset$Id.type, dset$Id, sep='=')
-  write.SDF(dset.sdf, paste(AGGREGATE_DIR, sprintf('GHSR.%s.sdf', dsname), sep='/'))
+  dsfile <- sprintf('GHSR.%s.sdf', dsname)
+  dspath <- normalizePath(paste(AGGREGATE_DIR, dsfile, sep='/'), mustWork=F)
+  write.SDF(dset.sdf, dspath)
 }

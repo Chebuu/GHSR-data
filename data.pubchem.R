@@ -2,7 +2,7 @@
 ## What are the units of acvalue? uM? nM? Because some values are on the order of 10000 and some are on the order of 0.0001.
 ## What is the meaning of Kbapp? 
 ## ## - Is Kbapp proportional to Kb?
-## ## - May have to the linked pulication for the aid reporting Kbapp
+## ## ## - Reference the linked pulication for the aid reporting Kbapp
 ## Convert all Ka to Kd via Kd = 1/Ka
 ## Impute new feature 'direction' as agonist/antagonist/inactive 
 ## There are many duplicate compounds with non-unique acvalues

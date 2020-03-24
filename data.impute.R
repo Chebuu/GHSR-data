@@ -21,11 +21,8 @@ getRefsByColumn <- function(GHSR){
 }
 
 RFBC <- getRefsByColumn(GHSR[c('EC50', 'IC50', 'KI', 'KB')])
-RFBC
-# This reveals a lot of malformatted data. Not sure what the cause is.
-RFBC %>%
+RFBC %>% # This reveals a lot of malformatted data. Not sure what the cause is.
   filter(Subject == Reference & Standard.Value.S != Standard.Value.R)
-
 
 RFBC.xrf.incomplete <- RFBC %>%
   filter(Subject != Reference & xor(is.na(Standard.Value.S), is.na(Standard.Value.R)))
@@ -33,16 +30,15 @@ RFBC.xrf.incomplete <- RFBC %>%
 RFBC.xrf.complete <- RFBC %>%
   filter(Subject != Reference & !is.na(Standard.Value.S) & !is.na(Standard.Value.R))
 
-tst <- RFBC.xrf.complete %>%
-  filter(Subject == 'EC50' & Reference == 'IC50')
 
-which(GHSR$EC50$Id == 'CHEMBL500468')
-plot(log(tst$Standard.Value.S), log(tst$Standard.Value.R))
-
-isx <- intersect(GHSR$EC50$Id, GHSR$IC50$Id)
-
-data.frame(GHSR$EC50$Standard.Value[GHSR$EC50$Id == isx], GHSR$IC50$Standard.Value[GHSR$IC50$Id == isx])
-GHSR$EC50$Standard.Value[GHSR$EC50$Id == isx]
-GHSR$IC50$Standard.Value[GHSR$IC50$Id == isx]
-
-
+# # Fiddles
+# tst <- RFBC.xrf.complete %>%
+#   filter(Subject == 'EC50' & Reference == 'IC50')
+# plot(log(tst$Standard.Value.S), log(tst$Standard.Value.R))
+# isx <- intersect(GHSR$EC50$Id, GHSR$IC50$Id)
+# data.frame(
+#   GHSR$EC50$Standard.Value[GHSR$EC50$Id == isx], 
+#   GHSR$IC50$Standard.Value[GHSR$IC50$Id == isx])
+# 
+# GHSR$EC50$Standard.Value[GHSR$EC50$Id == isx]
+# GHSR$IC50$Standard.Value[GHSR$IC50$Id == isx]

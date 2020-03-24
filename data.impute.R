@@ -22,7 +22,7 @@ getRefsByColumn <- function(GHSR){
 
 RFBC <- getRefsByColumn(GHSR[c('EC50', 'IC50', 'KI', 'KB')])
 RFBC
-# This reveals a lot of fucked up data. Not sure what the cause is.
+# This reveals a lot of malformatted data. Not sure what the cause is.
 RFBC %>%
   filter(Subject == Reference & Standard.Value.S != Standard.Value.R)
 

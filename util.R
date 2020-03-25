@@ -2,6 +2,7 @@ library(dplyr)
 library(httr)
 library(RCurl)
 library(XML)
+library(progress)
 
 AGGREGATE_DIR <- 'data/aggregate'
 AGGREGATE_DNAMES <- c('INACTIVE','ACTIVITY', 'EC50', 'IC50', 'KI', 'KB')
@@ -130,7 +131,7 @@ getCID.inchi <- function(inchis){
   #' getCID.inchi(c("CZYZPYHWBJNCKH-UHFFFAOYSA-N","FEERXCVFQAXCNL-UHFFFAOYSA-N", "33705", 62754))
   #' }
   message(sprintf('Fetching CIDs (%s)...', length(inchis)))
-  idlist.split <- splitListForURL(inchis, x.char.sep=',', n.char.max=900)
+  idlist.split <- splitListForURL(inchis, x.char.sep=',', n.char.max=500)
   mappings <- as.data.frame(
     do.call(
       rbind,
@@ -143,21 +144,25 @@ getCID.inchi <- function(inchis){
         res <- GET(get.url)
         cnt <- rawToChar(res$content)
         doc <- xmlParse(cnt)
-        PC_Compounds <- xmlElementsByTagName(doc, 'PC-Compounds', recursive=FALSE)[[1]]
-        PC_Compound <- xmlElementsByTagName(PC_Compounds, 'PC-Compound', recursive=FALSE)
+        PC_Compounds <- xmlElementsByTagName(doc, 'PC-Compounds', recursive=FALSE)
+        PC_Compound <- ifelse(
+          length(PC_Compounds)>0, 
+          xmlElementsByTagName(PC_Compounds[[1]], 'PC-Compound', recursive=FALSE), 
+          xmlElementsByTagName(doc, 'PC-Compound', recursive=FALSE)
+        )
         do.call(
           rbind,
           lapply(PC_Compound, function(node){
+            inchi <- NULL
             pcid <- xmlElementsByTagName(node, 'PC-Compound_id', recursive=FALSE)[[1]]
             pct <- xmlElementsByTagName(pcid, 'PC-CompoundType', recursive=FALSE)[[1]]
             pcti <- xmlElementsByTagName(pct, 'PC-CompoundType_id', recursive=FALSE)[[1]]
             pctic <- xmlElementsByTagName(pcti, 'PC-CompoundType_id_cid', recursive=FALSE)[[1]]
             cid <- xmlValue(pctic)
-            inchi <- NULL
             pcp <- xmlElementsByTagName(node, 'PC-Compound_props', recursive=FALSE)[[1]]
             pcid <- xmlElementsByTagName(pcp, 'PC-InfoData', recursive=FALSE)
             for(p in pcid){
-              pcul <- xmlElementsByTagName(p, 'PC-Urn_label', recursive=TRUE)[[1]]
+              pcul <- tryCatch((xmlElementsByTagName(p, 'PC-Urn_label', recursive=TRUE)[[1]]), error=function(e){FALSE})
               if(xmlValue(pcul) == 'InChIKey'){
                 pcifd <- pcul %>% xmlParent %>% xmlParent %>% xmlParent
                 pcsvl <- xmlElementsByTagName(pcifd, 'PC-InfoData_value_sval', recursive=TRUE)
@@ -184,72 +189,77 @@ getCID.inchi <- function(inchis){
   })
 }
 
-getSMILES.cid <- function(cids){
+getSMILES.cid <- function(cids, format=c('canonical', 'isomeric'), default=NA_character_, verbose=TRUE){
   #' Fetch isomeric SMILES strings for one or many CIDs.
-  #' @value A named list of isomeric SMILES strings, where names are the corresponding CID for each SMILES string. Indices of the returned vector match those of the argument. If a corresponding isomeric SMILES string for a given CID cannot be found, its value will be NA_character_ in the returned list.
-  #' @param chemblids A vector of CHEMBLIDs
+  #' @param chemblids PubChem CIDs for which to fetch SMILES strings.
+  #' @param format  The type of SMILES string to return. Options are 'isomeric', 'canonical', or both.
+  #' @param default The default value used to fill missing SMILES strings.
+  #' @return A named list of SMILES strings where names represent the corresponding CID. Indices of the returned list match those of the argument to \code{cid}. 
   #' @example \dontrun{
-  #' getSMILES.cid(c("9890863", "9914145", "10874830"))
+  #' getSMILES.cid(c("9890863", "9914145", "10874830"), "isomeric")
   #' }
-  message(sprintf('Fetching SMILES (%s)...', length(cids)))
-  idlist.split <- splitListForURL(inchis, x.char.sep=',', n.char.max=900)
+  .format <- c(isomeric='isomeric', canonical='canonical', both=c(isomeric='isomeric', canonical='canonical'))[format]
+  idlist.split <- splitListForURL(cids[!is.na(cids)], x.char.sep=',', n.char.max=600)
+  if(verbose) message(sprintf('Fetching SMILES for %s compounds over %s queries...', length(cids), length(idlist.split)))
   mappings <- as.data.frame(
     do.call(
       rbind,
-      lapply(idlist.split, function(idls){
-        get.url <- sprintf('https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/%s/record/XML', idls)
-        res <- GET(get.url)
-        cnt <- rawToChar(res$content)
-        doc <- xmlParse(cnt)
-        PC_Compounds <- xmlElementsByTagName(doc, 'PC-Compounds', recursive=FALSE)[[1]]
-        PC_Compound <- xmlElementsByTagName(PC_Compounds, 'PC-Compound', recursive=FALSE)
+      lapply(seq_along(idlist.split), function(idx){
+        res <- GET(sprintf('https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/%s/record/XML', idlist.split[[idx]]))
+        doc <- xmlParse(rawToChar(res$content))
+        PC_Compound <- tryCatch({
+          PC_Compounds <- xmlElementsByTagName(doc, 'PC-Compounds', recursive=FALSE)[[1]]
+          PC_Compound <- xmlElementsByTagName(PC_Compounds, 'PC-Compound', recursive=FALSE)
+        }, error=function(e){FALSE})
         do.call(
           rbind,
           lapply(PC_Compound, function(node){
-            pcid <- xmlElementsByTagName(node, 'PC-Compound_id', recursive=FALSE)[[1]]
-            pct <- xmlElementsByTagName(pcid, 'PC-CompoundType', recursive=FALSE)[[1]]
-            pcti <- xmlElementsByTagName(pct, 'PC-CompoundType_id', recursive=FALSE)[[1]]
-            pctic <- xmlElementsByTagName(pcti, 'PC-CompoundType_id_cid', recursive=FALSE)[[1]]
-            cid <- xmlValue(pctic)
-            inchi <- NULL
-            smiles <- NULL
-            pcp <- xmlElementsByTagName(node, 'PC-Compound_props', recursive=FALSE)[[1]]
-            pcid <- xmlElementsByTagName(pcp, 'PC-InfoData', recursive=FALSE)
+            cid.compound <- NULL
+            isomeric.smiles <- default
+            canonical.smiles <- default
+            cid.compound <- tryCatch({
+              pcid <- xmlElementsByTagName(node, 'PC-Compound_id', recursive=FALSE)[[1]]
+              pct <- xmlElementsByTagName(pcid, 'PC-CompoundType', recursive=FALSE)[[1]]
+              pcti <- xmlElementsByTagName(pct, 'PC-CompoundType_id', recursive=FALSE)[[1]]
+              pctic <- xmlElementsByTagName(pcti, 'PC-CompoundType_id_cid', recursive=FALSE)[[1]]
+              cid <- xmlValue(pctic)
+            }, error=function(e){cid})
+            pcid <- tryCatch({
+              pcp <- xmlElementsByTagName(node, 'PC-Compound_props', recursive=FALSE)[[1]]
+              pcid <- xmlElementsByTagName(pcp, 'PC-InfoData', recursive=FALSE)
+            }, error=function(e){NULL})
             for(p in pcid){
-              pcun <- tryCatch((xmlElementsByTagName(p, 'PC-Urn_name', recursive=TRUE)[[1]]), error=function(e){return(FALSE)})
-              if(isFALSE(pcun)) return(c(cid=cid, smiles=smiles))
-              if(xmlValue(pcun) == 'Isomeric'){
+              pcun <- tryCatch((xmlElementsByTagName(p, 'PC-Urn_name', recursive=TRUE)[[1]]), error=function(e){FALSE})
+              if(typeof(pcun) == 'externalptr'){
                 pcifd <- pcun %>% xmlParent %>% xmlParent %>% xmlParent
                 pcsvl <- xmlElementsByTagName(pcifd, 'PC-InfoData_value_sval', recursive=TRUE)
-                smiles <- xmlValue(pcsvl[[1]])
+                if(xmlValue(pcun) == 'Isomeric')
+                  isomeric.smiles <- tryCatch(xmlValue(pcsvl[[1]]), error=function(e){isomeric.smiles})
+                if(xmlValue(pcun) == 'Canonicalized')
+                  canonical.smiles <- tryCatch(xmlValue(pcsvl[[1]]), error=function(e){canonical.smiles})
               }
             }
-            return(
-              c(
-                cid=cid,
-                smiles=smiles
-              )
-            )
+            return(c(cid=cid.compound, canonical=canonical.smiles, isomeric=isomeric.smiles))
           }) 
         )
       }) 
-    )
+    ), stringsAsFactors=FALSE
   )
-  message('Mapping values...')
-  sapply(cids, function(id){
-    midx <- mappings$cid == id
-    if(sum(midx) < 1 || any(is.na(midx))) return(NA_character_)
-    smiles.map <- mappings$smiles[midx][[1]]
-    return(smiles.map)
-  })
+  if(verbose) message('Mapping values...')
+  setNames(
+    lapply(cids, function(cid){
+      midx <- which(mappings$cid == cid)
+      if(is_empty(midx)) 
+        return(c(cid=cid, isomeric=default, canonical=default)[.format])
+      mappings[c(midx)[[1]], .format]
+    }), cids
+  )
 }
 
 getConformers <- function(){
-  # A list of diverse order conformer IDs can be obtained from CID. Valid output formats are XML, JSON(P), ASNT/B, and TXT (limited to a single CID):
-  #   
-  #   https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2244/conformers/XML
-  # 
-  # Individual conformer records – either computed 3D coordinates for compounds or deposited/experimental 3D coordinates for some substances – can be retrieved by conformer ID:
-  #   
-  #   https://pubchem.ncbi.nlm.nih.gov/rest/pug/conformers/000008C400000001/SDF
+  ## A list of diverse order conformer IDs can be obtained from CID. Valid output formats are XML, JSON(P), ASNT/B, and TXT (limited to a single CID):
+  ## ## https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2244/conformers/XML
+
+  ## Individual conformer records – either computed 3D coordinates for compounds or deposited/experimental 3D coordinates for some substances – can be retrieved by conformer ID:
+  ## ## https://pubchem.ncbi.nlm.nih.gov/rest/pug/conformers/000008C400000001/SDF
 }

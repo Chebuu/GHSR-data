@@ -1,10 +1,13 @@
 library(dplyr)
+library(ChemmineR)
 
 source('util.R')
 
 source('data.chembl.R')
 source('data.pubchem.R')
 source('data.literature.R')
+
+WRITE_SDF <- TRUE
 
 # Read parsed datasets from each soure and rbind those of the same type
 GHSR <- readGHSR.parsed(bind=TRUE)
@@ -44,7 +47,7 @@ GHSR <- lapply(GHSR, function(dset){
   dset %>%
     mutate(
       smiles = case_when(
-        Id.Type == 'cid' ~ getSMILES.cid(Id),
+        Id.Type == 'cid' ~ unlist(getSMILES.cid(Id, 'isomeric')),
         TRUE ~ NA_character_
       )
     )
@@ -59,11 +62,12 @@ for(dsname in names(GHSR)){
 }
 
 # Parse SMILES as SDFset and write to file
-for(dsname in names(GHSR)){
-  dset <- GHSR[[dsname]]
-  dset.sdf <- smiles2sdf(dset.id)
-  dset.sdf@ID <- paste(dset$Id.type, dset$Id, sep='=')
-  dsfile <- sprintf('GHSR.%s.sdf', dsname)
-  dspath <- normalizePath(paste(AGGREGATE_DIR, dsfile, sep='/'), mustWork=F)
-  write.SDF(dset.sdf, dspath)
-}
+if(WRITE_SDF)
+  for(dsname in names(GHSR)){
+    dset <- GHSR[[dsname]]
+    dset.sdf <- smiles2sdf(dset$smiles)
+    dset.sdf@ID <- paste(dset$Id.type, dset$Id, sep='=')
+    dsfile <- sprintf('GHSR.%s.sdf', dsname)
+    dspath <- normalizePath(paste(AGGREGATE_DIR, dsfile, sep='/'), mustWork=F)
+    write.SDF(dset.sdf, dspath)
+  }
